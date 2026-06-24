@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Ramadan!
 
-**Front-End Developer | React Ecosystem Specialist**
+**Front-End Developer**
 
 I'm a passionate Front-End Developer specializing in the React ecosystem, including React, Next.js, and React Native. I love building responsive web and cross-platform mobile applications. I also have solid experience developing scalable full-stack solutions using Node.js, Express.js, and MongoDB. 
 

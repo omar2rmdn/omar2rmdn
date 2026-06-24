@@ -34,29 +34,6 @@ With a focus on performance, maintainability, security, and user experience, I h
 
 ---
 
-### Featured Projects
-
-#### Employee Management System (Full-Stack)
-- Developed a full-stack system using **Next.js, React, TypeScript, MongoDB/Mongoose, and Tailwind CSS**.
-- Implemented role-based authentication, employee CRUD, attendance management, leave workflows, and automated payslips.
-- Designed responsive UIs and optimized database operations for efficient HR management.
-
-#### School Management System (Full-Stack)
-- Built using **React, React Native (Expo), Express, TypeScript, and MongoDB**.
-- Features role-based dashboards for admins, teachers, parents, and supervisors.
-- Handled student management, attendance, grades, scheduling, and integrated RESTful APIs across web and mobile.
-
-#### Ecommerce Web Store (Front-End)
-- Responsive e-commerce web app built with **React**.
-- Implemented clean architecture and modern design patterns.
-- Featured product catalogs, shopping cart functionality, mock APIs integration, and efficient state management.
-
-#### Real Estate Agency Landing Page (Front-End)
-- Modern, responsive web application tailored for property discovery and lead generation.
-- Optimized for accessibility and performance across multiple devices.
-
----
-
 ### Education
 **Zagazig University, Sharqia, Egypt** (2021 — 2025)
 - Bachelor Degree of Computer and Information Science 
@@ -67,8 +44,8 @@ With a focus on performance, maintainability, security, and user experience, I h
 ### Connect with me!
 
 - Email: omar.11.dev@gmail.com
-- LinkedIn: [omar-ramadan](https://www.linkedin.com/in/omar-ramadan-0b608b37a/)
-- GitHub: [@omar11dev](https://github.com/omar2rmdn)
+- LinkedIn: [Omar Ramadan](https://www.linkedin.com/in/omar-ramadan-0b608b37a/)
+- GitHub: [@omar2rmdn](https://github.com/omar2rmdn)
 - Portfolio: [Website](https://omar11dev.netlify.app/)
 
 <!--
